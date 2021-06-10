@@ -9,12 +9,19 @@ Will return the current date
 You need pass a string in function date, we have one parameters necessary and two optional
 
 > Y = year (2021)
+>
 > m = month (06)
+>
 > M = short name of month JUL
+>
 > D = weekday (Friday)
+>
 > d = day (09)
+>
 > H = hour (10)
+>
 > i = minute (05)
+>
 > s = seconds (05)
 
 You can use the way you want like: ```date("d/m/Y H:i:s");```
