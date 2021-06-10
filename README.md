@@ -1,6 +1,6 @@
 # date-typescript-library
 
-##How to install
+## How to install
 
 ```sh
 npm i date-typescript-library
