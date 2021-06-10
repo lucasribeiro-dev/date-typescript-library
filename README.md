@@ -1,5 +1,11 @@
 # date-typescript-library
 
+##How to install
+
+```sh
+npm i date-typescript-library
+```
+
 ## How to use
 
 I created this library like the function date of php, do after you install the library you can use this way ```date("Y-m-d");```
